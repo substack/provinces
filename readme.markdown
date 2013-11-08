@@ -7,6 +7,7 @@ state and province lists for countries
 This module currently has states and provinces for:
 
 * united states
+* united kingdom
 * canada
 * mexico
 * australia
