@@ -270,4 +270,20 @@
 { "name": "Torfaen", "country": "GB", "region": "Wales" },
 { "name": "Wrexham", "country": "GB", "region": "Wales" }
 
+{"short":"BW","name":"Baden-Württemberg","country":"DE"},
+{"short":"BY","name":"Bayern","country":"DE"},
+{"short":"BE","name":"Berlin","country":"DE"},
+{"short":"BB","name":"Brandenburg","country":"DE"},
+{"short":"HB","name":"Bremen","country":"DE"},
+{"short":"HH","name":"Hamburg","country":"DE"},
+{"short":"HE","name":"Hessen","country":"DE"},
+{"short":"MV","name":"Mecklenburg-Vorpommern","country":"DE"},
+{"short":"NI","name":"Niedersachsen","country":"DE"},
+{"short":"NW","name":"Nordrhein-Westfalen","country":"DE"},
+{"short":"RP","name":"Rheinland-Pfalz","country":"DE"},
+{"short":"SL","name":"Saarland","country":"DE"},
+{"short":"SN","name":"Sachsen","country":"DE"},
+{"short":"ST","name":"Sachsen-Anhalt","country":"DE"},
+{"short":"SH","name":"Schleswig-Holstein","country":"DE"},
+{"short":"TH","name":"Thüringen","country":"DE"}
 ]
