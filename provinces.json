@@ -361,6 +361,7 @@
 {"short":"CH","name":"Chandigarh","country":"IN"},
 {"short":"DN","name":"Dadra and Nagar Haveli","country":"IN"},
 {"short":"DD","name":"Daman and Diu","country":"IN"},
-{"short":"LD","name":"Lakshadweep","country":"IN"}
-
+{"short":"LD","name":"Lakshadweep","country":"IN"},
+{"short":"DL","name":"National Capital Territory of Delhi","country":"IN"},
+{"short":"PY","name":"Puducherry","country":"IN"}
 ]
