@@ -11,7 +11,8 @@
     "tape": "^4.0.0"
   },
   "scripts": {
-    "test": "tape test/*.js"
+    "test": "tape test/*.js",
+    "format": "node formatter.js"
   },
   "repository": {
     "type": "git",
