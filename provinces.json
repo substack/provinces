@@ -1367,5 +1367,13 @@
 { "name": "Westland", "country": "NZ" },
 { "name": "Canterbury", "country": "NZ" },
 { "name": "Otago", "country": "NZ" },
-{ "name": "Southland", "country": "NZ" }
+{ "name": "Southland", "country": "NZ" },
+
+{ "short": "AL", "name": "Ahvenanmaan lääni", "country": "FI" },
+{ "short": "ES", "name": "Etelä-Suomen lääni", "country": "FI" },
+{ "short": "IS", "name": "Itä-Suomen lääni", "country": "FI" },
+{ "short": "LL", "name": "Lapin lääni", "country": "FI" },
+{ "short": "LS", "name": "Länsi-Suomen lääni", "country": "FI" },
+{ "short": "OL", "name": "Oulun lääni", "country": "FI" }
+
 ]
