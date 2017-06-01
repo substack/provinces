@@ -1375,6 +1375,7 @@
 { "short": "LL", "name": "Lapin lääni", "country": "FI" },
 { "short": "LS", "name": "Länsi-Suomen lääni", "country": "FI" },
 { "short": "OL", "name": "Oulun lääni", "country": "FI" },
+
 { "short": "AG", "name": "Aargau", "country": "CH" },
 { "short": "AI", "name": "Appenzell Innerrhoden", "country": "CH" },
 { "short": "AR", "name": "Appenzell Ausserrhoden", "country": "CH" },
@@ -1400,5 +1401,10 @@
 { "short": "VD", "name": "Vaud", "country": "CH" },
 { "short": "VS", "name": "Valais", "country": "CH" },
 { "short": "ZG", "name": "Zug", "country": "CH" },
-{ "short": "ZH", "name": "Zürich", "country": "CH" }
+{ "short": "ZH", "name": "Zürich", "country": "CH" },
 
+{ "short": "C", "name": "Connacht", "country": "IE" },
+{ "short": "L", "name": "Leinster", "country": "IE" },
+{ "short": "M", "name": "Munster", "country": "IE" },
+{ "short": "U", "name": "Ulster", "country": "IE" }
+]
