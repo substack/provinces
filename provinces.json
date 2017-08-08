@@ -213,11 +213,11 @@
 { "name": "Wiltshire", "country": "GB", "region": "England" },
 { "name": "Worcestershire", "country": "GB", "region": "England" },
 
-{ "name": "Antrim", "country": "GB", "region": "Northern Ireland" },
-{ "name": "Down", "country": "GB", "region": "Northern Ireland" },
-{ "name": "Fermanagh", "country": "GB", "region": "Northern Ireland" },
-{ "name": "Londonderry", "country": "GB", "region": "Northern Ireland" },
-{ "name": "Tyrone", "country": "GB", "region": "Northern Ireland" },
+{ "name": "Antrim", "country": "GB", "alt": ["Aontroim"], "region": "Northern Ireland" },
+{ "name": "Down", "country": "GB", "alt": ["An Dún"], "region": "Northern Ireland" },
+{ "name": "Fermanagh", "country": "GB", "alt": ["Fear Manach"], "region": "Northern Ireland" },
+{ "name": "Londonderry", "country": "GB", "alt": ["Doire", "Derry"], "region": "Northern Ireland" },
+{ "name": "Tyrone", "country": "GB", "alt": ["Tír Eoghain"], "region": "Northern Ireland" },
 
 { "name": "Aberdeen City", "country": "GB", "region": "Scotland" },
 { "name": "Aberdeenshire", "country": "GB", "region": "Scotland" },
