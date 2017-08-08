@@ -214,6 +214,7 @@
 { "name": "Worcestershire", "country": "GB", "region": "England" },
 
 { "name": "Antrim", "country": "GB", "alt": ["Aontroim"], "region": "Northern Ireland" },
+{ "name": "Armagh", "country": "GB", "alt": ["Ard Mhacha"], "region": "Northern Ireland" },
 { "name": "Down", "country": "GB", "alt": ["An Dún"], "region": "Northern Ireland" },
 { "name": "Fermanagh", "country": "GB", "alt": ["Fear Manach"], "region": "Northern Ireland" },
 { "name": "Londonderry", "country": "GB", "alt": ["Doire", "Derry"], "region": "Northern Ireland" },
@@ -223,7 +224,6 @@
 { "name": "Aberdeenshire", "country": "GB", "region": "Scotland" },
 { "name": "Angus", "country": "GB", "region": "Scotland" },
 { "name": "Argyll and Bute", "country": "GB", "region": "Scotland" },
-{ "name": "Armagh", "country": "GB", "region": "Scotland" },
 { "name": "Carmarthenshire", "country": "GB", "region": "Scotland" },
 { "name": "Clackmannan", "country": "GB", "region": "Scotland" },
 { "name": "Dumfries and Galloway", "country": "GB", "region": "Scotland" },
