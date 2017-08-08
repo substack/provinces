@@ -20,6 +20,7 @@ This module currently has states and provinces for:
 * Indonesia (ID)
 * Jordan (JO)
 * India (IN)
+* Ireland (IE)
 * Cambodia (KH)
 * Ethiopia (ET)
 * Peru (PE)
