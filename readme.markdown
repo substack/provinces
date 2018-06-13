@@ -60,9 +60,21 @@ Each row consists of:
 
 With [npm](https://npmjs.org) do:
 
-```
+```shell
 npm install provinces
 ```
+
+# import single countries only
+
+If you only need provinces for specific countries, you can import them from the `countries` subdirectory:
+
+```js
+const canadaProvinces = require('provinces/countries/ca.js');
+```
+
+# contribution
+
+To add or update the data, just modify `provinces.json` and run `./scripts/split.js` afterwards, to generate the files in `countries/`.
 
 # license
 
