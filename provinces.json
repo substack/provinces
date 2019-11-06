@@ -1,4 +1,7 @@
 [
+{"short":"AA","name":"Armed Forces Americas","country":"US"},
+{"short":"AE","name":"Armed Forces Europe","country":"US"},
+{"short":"AP","name":"Armed Forces Pacific","country":"US"},
 {"short":"AL","name":"Alabama","country":"US"},
 {"short":"AK","name":"Alaska","country":"US"},
 {"short":"AZ","name":"Arizona","country":"US"},
